@@ -1,0 +1,27 @@
+@charset "utf-8";
+.style-a {
+    color: hotpink;
+    font-family: "Rubik Scribble", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+.style-b{
+    color: blue;
+    font-family: "Rubik Scribble", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.style-c{
+    color: blueviolet;
+    font-family: "Rubik Scribble", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.style-d{
+    color: palegreen;
+    font-family: "Rubik Scribble", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
